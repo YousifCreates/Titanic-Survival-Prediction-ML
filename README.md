@@ -52,12 +52,6 @@ It contains information about passengers such as:
   - Hyperparameter tuning (`C`, `gamma`, `kernel`).
   - Feature engineering (e.g., extracting `Title` from names, family size features).
   - Trying other ML models like Random Forest, Gradient Boosting, Logistic Regression.  
-
-## 🚀 Technologies Used
-- Python 3.x
-- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-
-## 📌 How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/YousifCreates/Titanic-Survival-Prediction-ML
