@@ -6,7 +6,7 @@ The Titanic dataset is one of the most famous machine learning problems, making 
 ## 📌 Project Overview
 - **Goal:** Predict whether a passenger survived or not based on features such as class, age, sex, and fare.  
 - **Algorithm Used:** Support Vector Classifier (SVC) with RBF kernel.  
-- **Performance Achieved:** ~73% accuracy on the test dataset.  
+- **Performance Achieved:** ~79% accuracy on the test dataset.  
 
 ## 📂 Dataset
 The dataset is available on [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic).  
